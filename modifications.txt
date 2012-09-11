@@ -1,0 +1,5 @@
+base width: 550
+monospace
+large letters (except W): 73%
+W: 53 %
+m and w: orig size / 550
