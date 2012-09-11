@@ -1,7 +1,7 @@
 SplineFontDB: 3.0
 FontName: TeXLove
-FullName: TeX <3
-FamilyName: TeX <3
+FullName: TeX<3
+FamilyName: TeX<3
 Weight: Regular
 Copyright: TeXLove (<3) 2012 Thomas Eriksson.\n\nCopyright 2003, 2009 B. Jackowski and J. M. Nowacki (on behalf of TeX users groups). This work is released under the GUST Font License --  see http://tug.org/fonts/licenses/GUST-FONT-LICENSE.txt for details.
 Version: 2.004
@@ -14,13 +14,14 @@ sfntRevision: 0x00020106
 LayerCount: 2
 Layer: 0 0 "Back"  1
 Layer: 1 0 "Fore"  0
+NeedsXUIDChange: 1
 XUID: [1021 777 149012601 16102352]
 FSType: 8
 OS2Version: 3
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1254995892
-ModificationTime: 1347390113
+ModificationTime: 1347390397
 PfmFamily: 49
 TTFWeight: 400
 TTFWidth: 5
@@ -72,7 +73,7 @@ Lookup: 257 0 0 "'cpsp' Capital Spacing lookup 0"  {"'cpsp' Capital Spacing look
 Lookup: 258 0 0 "'kern' Horizontal Kerning lookup 1"  {"'kern' Horizontal Kerning lookup 1 subtable"  } ['kern' ('DFLT' <'dflt' > 'cyrl' <'dflt' > 'latn' <'AZE ' 'CRT ' 'MOL ' 'NLD ' 'PLK ' 'ROM ' 'TRK ' 'dflt' > ) ]
 MarkAttachClasses: 1
 DEI: 91125
-LangName: 1033 "" "" "" "2.004;TeX<3;TeX<3" "" "Version 2.004;PS 2.004;hotconv 1.0.49;makeotf.lib2.0.14853" "" "Please refer to the Copyright section for the font trademark attribution notices." "" "" "" "" "" "" "" "" "TeX <3" "TeX <3" "TeX <3" 
+LangName: 1033 "" "" "" "2.004;TeX<3;TeX<3" "" "Version 2.004;PS 2.004;hotconv 1.0.49;makeotf.lib2.0.14853" "" "Please refer to the Copyright section for the font trademark attribution notices." "" "" "" "" "" "" "" "" "TeX<3" "TeX<3" "TeX<3" 
 DesignSize: 100 95-110 1 1033 "Regular" 
 Encoding: UnicodeBmp
 UnicodeInterp: none
@@ -1219,27 +1220,27 @@ EndChar
 
 StartChar: asciitilde
 Encoding: 126 126 31
-Width: 550
+Width: 401
 Flags: HMW
-HStem: 193 43<365.5 381> 211 43 246 43 264 43<169 184.5>
+HStem: 193 43<266.815 278.13> 211 43 246 43 264 43<123.37 134.685>
 LayerCount: 2
 Fore
 SplineSet
-552.5 290 m 1x90
- 498.5 246 l 2x20
- 481.5 232 461.5 221 441.5 211 c 0x40
- 419.5 201 393.5 193 368.5 193 c 0
- 328.5 193 297.5 210 268.5 227 c 0
- 233.5 247 204.5 264 164.5 264 c 0
- 113.5 264 60.5 234 11.5 193 c 1x90
- -2.5 210 l 1
- 51.5 254 l 2x40
- 68.5 268 88.5 279 108.5 289 c 0x20
- 130.5 299 156.5 307 181.5 307 c 0
- 221.5 307 252.5 290 281.5 273 c 0
- 316.5 253 345.5 236 385.5 236 c 0
- 436.5 236 489.5 266 538.5 307 c 1
- 552.5 290 l 1x90
+403.325 290 m 1x90
+ 363.905 246 l 2x20
+ 351.495 232 336.895 221 322.295 211 c 0x40
+ 306.235 201 287.255 193 269.005 193 c 0
+ 239.805 193 217.175 210 196.005 227 c 0
+ 170.455 247 149.285 264 120.085 264 c 0
+ 82.8555 264 44.165 234 8.39453 193 c 1x90
+ -1.8252 210 l 1
+ 37.5947 254 l 2x40
+ 50.0049 268 64.6055 279 79.2051 289 c 0x20
+ 95.2646 299 114.245 307 132.495 307 c 0
+ 161.695 307 184.325 290 205.495 273 c 0
+ 231.045 253 252.215 236 281.415 236 c 0
+ 318.645 236 357.335 266 393.105 307 c 1
+ 403.325 290 l 1x90
 EndSplineSet
 EndChar
 
@@ -3868,17 +3869,17 @@ EndChar
 
 StartChar: underscore
 Encoding: 95 95 110
-Width: 550
+Width: 401
 Flags: HMW
-HStem: -138 26<-100 650 -100 650>
+HStem: -138 26<-73.25 474.25 -73.25 474.25>
 LayerCount: 2
 Fore
 SplineSet
-650 -138 m 1
- -100 -138 l 1
- -100 -112 l 1
- 650 -112 l 1
- 650 -138 l 1
+474.25 -138 m 1
+ -73.25 -138 l 1
+ -73.25 -112 l 1
+ 474.25 -112 l 1
+ 474.25 -138 l 1
 EndSplineSet
 EndChar
 
@@ -4003,7 +4004,7 @@ EndChar
 StartChar: w
 Encoding: 119 119 114
 Width: 550
-Flags: HMWO
+Flags: HMW
 HStem: -11 21G<177.72 187.6 362.4 372.28> 354 31 400 31<14.7001 33.7001>
 VStem: 14.7001 520.6<400 431 400 431>
 LayerCount: 2
@@ -12665,10 +12666,10 @@ SplineSet
  295.5 3 291.5 0 287.5 0 c 2
  285.5 0 l 2
  279.5 0 275.5 4 275.5 10 c 0
- 275.5 11 275.5 12 275.5 12 c 1
+ 275.5 12 l 1
  293.5 93 325.5 171 369.5 242 c 1
  325.5 313 293.5 390 275.5 471 c 0
- 275.5 472 275.5 473 275.5 473 c 2
+ 275.5 473 l 2
  275.5 479 279.5 483 285.5 483 c 2
  287.5 483 l 2
  291.5 483 295.5 481 296.5 477 c 0
@@ -12680,10 +12681,10 @@ SplineSet
  128.5 3 124.5 0 120.5 0 c 2
  118.5 0 l 2
  112.5 0 108.5 4 108.5 10 c 0
- 108.5 11 108.5 12 108.5 12 c 1
+ 108.5 12 l 1
  126.5 93 158.5 171 202.5 242 c 1
  158.5 313 126.5 390 108.5 471 c 0
- 108.5 472 108.5 473 108.5 473 c 2
+ 108.5 473 l 2
  108.5 479 112.5 483 118.5 483 c 2
  120.5 483 l 2
  124.5 483 128.5 481 129.5 477 c 0
@@ -12733,10 +12734,10 @@ SplineSet
  212 3 208 0 204 0 c 2
  202 0 l 2
  196 0 192 4 192 10 c 0
- 192 11 192 12 192 12 c 1
+ 192 12 l 1
  210 93 242 171 286 242 c 1
  242 313 210 390 192 471 c 0
- 192 472 192 473 192 473 c 2
+ 192 473 l 2
  192 479 196 483 202 483 c 2
  204 483 l 2
  208 483 212 481 213 477 c 0
